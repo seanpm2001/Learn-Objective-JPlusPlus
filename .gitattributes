@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Objective-J++ source file
+# Recognizing as Objective-J for now
+*.j linguist-detectable=true
+*.j linguist-documentation=false
+*.j linguist-language=Objective-J
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +166,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
+
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2023, Tuesday, April 4th at 7:31 pm PST)
+# Line count (including blank lines and compiler line): 179
+
 # End of script
